@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nisarg Jaiswal aka Nisu
-- 👀 I’m highly intrested in MERN and always learning something new
+- 👋 Hi I’m Nisarg Jaiswal aka Nisu
+- 👀 Highly intrested in MERN and always learning something new
 - 📫 Reach me via [@nisu_jaiswal_05](https://www.instagram.com/nisu_jaiswal_05/) on instagram and [Nisarg Jaiswal](https://www.linkedin.com/in/nisarg-jaiswal-14296320b/) on LinkedIn
 
 <!---
